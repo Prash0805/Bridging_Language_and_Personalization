@@ -1,0 +1,2 @@
+# Bridging_Language_and_Personalization
+This repository documents my learning and implementation work as part of the Winter in Data Science (WiDS) 2025–26 program. The project focuses on understanding and implementing modern Natural Language Processing (NLP) techniques, ranging from traditional word embeddings and convolutional neural networks to transformer-based models such as BERT. The work combines conceptual learning from provided reading material with hands-on coding experiments on real-world datasets.
