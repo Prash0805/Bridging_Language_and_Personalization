@@ -1,7 +1,7 @@
 # WiDS 2025–26 | NLP Learning, Experiments & Analysis
 
 ## Overview
-This repository contains my learning, experiments, and hands-on work carried out during the **Women in Data Science (WiDS) 2025–26 program**.
+This repository contains my learning, experiments, and hands-on work carried out during the **Winter in Data Science (WiDS) 2025–26 program**.
 
 The core notebooks were provided by the program mentors as learning material.  
 My contribution includes:
